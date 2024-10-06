@@ -1,2 +1,19 @@
-
+body{
+	background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+	display: flex;
+    justify-content: center;
+	align-items: center;
+	height: 100vh;
+    margin: 0;
+}
+.box {
+    width: 300px;
+    background-color: lightblue;
+    border: 15px solid blue;
+    padding: 50px;
+    margin: 20px;
+    box-sizing: border-box;
+    text-align: center;
+}
 /* Your CSS Code here. */
