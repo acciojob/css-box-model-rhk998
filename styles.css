@@ -4,11 +4,11 @@ body{
 .box{
 	width: 300px; 
     margin: 20px; 
-	background-color: lightblue;      /* Background color */
+	background-color: lightblue;      
     border-style: solid;
 	border-color: blue;
 	border-width:15px;
-    padding: 50px;                    /* Padding inside the box */
+    padding: 50px;                    
     margin: 20px; 
 }
 /* Your CSS Code here. */
