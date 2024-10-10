@@ -1,14 +1,7 @@
 body{
     font-family: Arial, sans-serif;
-	justify-content: center;
-	align-items: center;
-	display:flex;
-	
 }
 .box{
-	justify-content: center;
-	 align-items: center;
-	display:flex;
 	width: 300px; 
     margin: 20px; 
 	background-color: lightblue;      /* Background color */
