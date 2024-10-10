@@ -1,19 +1,21 @@
 body{
-	background-color: #f4f4f4;
     font-family: Arial, sans-serif;
-	display: flex;
-    justify-content: center;
+	justify-content: center;
 	align-items: center;
-	height: 100vh;
-    margin: 0;
+	display:flex;
+	
 }
-.box {
-    width: 300px;
-    background-color: lightblue;
-    border: 15px solid blue;
-    padding: 50px;
-    margin: 20px;
-    box-sizing: border-box;
-    text-align: center;
+.box{
+	justify-content: center;
+	 align-items: center;
+	display:flex;
+	width: 300px; 
+    margin: 20px; 
+	background-color: lightblue;      /* Background color */
+    border-style: solid;
+	border-color: blue;
+	border-width:15px;
+    padding: 50px;                    /* Padding inside the box */
+    margin: 20px; 
 }
 /* Your CSS Code here. */
